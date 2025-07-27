@@ -14,8 +14,8 @@ export const m3u8Proxy = async (req: Request, res: Response) => {
       responseType: 'stream',
       headers: {
         Accept: "*/*",
-        Referer: "https://megacloud.club/",
-        Origin: "https://megacloud.club"
+        Referer: "https://megaplay.buzz/stream/s-2/steinsgate-3?ep=230/dub",
+        Origin: "https://megaplay.buzz/stream/s-2/steinsgate-3?ep=230/dub"
       }
     });
 
